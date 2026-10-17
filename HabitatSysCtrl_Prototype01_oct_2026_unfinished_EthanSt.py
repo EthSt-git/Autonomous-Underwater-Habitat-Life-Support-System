@@ -1,7 +1,7 @@
 """
 Author: Ethan St. Louis
 Project: Autonomous Underwater Habitat Digital Twin
-
+Status: UNFINISHED
 TO DO:
 
 O2 and CO2 conditions
